@@ -1,0 +1,16 @@
+.collection {
+}
+.container {
+}
+.collection__content {
+}
+.collection__list {
+    display: flex;
+    justify-content: space-around
+}
+.collection__item {
+    border-radius: ;
+
+}
+.collection__text {
+}

@@ -1,0 +1,17 @@
+.example {
+}
+.container {
+}
+.example__content {
+}
+.example__list {
+    display: flex;
+    justify-content: center;
+    gap: ;
+}
+.example__item {
+
+}
+.example_main-text {
+    
+}
