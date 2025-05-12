@@ -1,10 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Bodoni:ital,wght@0,400..700;1,400..700&family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root{
+    --fontLF: "Libre Franklin", serif;
+    --fontLB: "Libre Bodoni", serif;
+}
 *{
     box-sizing: border-box;
 }
 
 body, html{
     height: 100%;
-    background-color: #f5f5f5;
+    background-color: #E2DADA;
     overflow-x: hidden;
 }
 
@@ -26,7 +32,7 @@ ul, ol{
 }
 
 .container{
-    max-wwwidth: px;
+    max-width: 1440px;
     margin: 0 auto;
     padding: 0 15px;
 }
