@@ -1,11 +1,11 @@
 .pluses {
 }
-.container {
-}
+
 .pluses__content {
 }
 .pluses__list {
-
+    display: flex;
+    justify-content: space-between;
 }
 .pluses__item {
 }

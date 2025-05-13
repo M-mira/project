@@ -6,12 +6,18 @@
 }
 .example__list {
     display: flex;
-    justify-content: center;
-    gap: ;
+    justify-content: space-around;
+    margin-top: 120px;
 }
-.example__item {
+.example__item{
 
 }
 .example_main-text {
-    
+    display: flex;
+    justify-content: center;
+    font-family: var(--fontLB);
+    font-size: 40px;
+    color: black;
+    margin-top: 93px;
+    margin-bottom: 182px;
 }

@@ -1,0 +1,16 @@
+.lala {
+
+}
+.lala__picture{
+    
+}
+.lala__content {
+ 
+}
+.lala__title {
+    font-family: var(--fontLB);
+    color: rgb(255, 255, 255, 0.5);
+    font-size: 128px;
+    display: flex;
+    justify-content: center;
+}
