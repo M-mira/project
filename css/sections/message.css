@@ -1,0 +1,27 @@
+.message {
+}
+
+.message__content {
+    margin-top: 290px;
+}
+.message__text {
+    font-family: var(--fontLB);
+    font-size: 64px;
+    color: black;
+    background-color:
+}
+
+.message__btn{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 45px;
+    margin-bottom: 235px;
+    padding: 30px 62px 22px 62px;
+    border-radius: 10px;
+    font-family: var(--fontLB);
+    color: #634B4B;
+    background-color: #B399A5;
+    font-size: 48px;
+    border: #5D4545;
+    text-shadow: #2A2020;
+}

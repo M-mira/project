@@ -3,14 +3,21 @@
 .container {
 }
 .collection__content {
+    margin-top: 160px;
 }
 .collection__list {
     display: flex;
-    justify-content: space-around
+    justify-content: space-between;
 }
 .collection__item {
-    border-radius: ;
+
 
 }
 .collection__text {
+    display: flex;
+    justify-content: center;
+    margin: 50px 0 50px 0;
+    font-family: var(--fontLB);
+    font-size: 64px;
+    color: #8C7871;
 }

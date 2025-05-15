@@ -1,0 +1,31 @@
+.footer {
+}
+
+.footer__content {
+    background-color: #19181B;
+}
+.footer__info {
+    color: white;
+    font-family: var(--fontLF);
+    font-size: 32px;
+}
+.logo {
+}
+.footer__text {
+    color: white;
+    font-family: var(--fontLF);
+    font-size: 40px;
+}
+.footer__address{
+    color: white;
+    font-family: var(--fontLF);
+    font-size: 48px;
+}
+.footer__social {
+}
+.footer__link {
+}
+.footer__list {
+}
+.footer__item img{
+}

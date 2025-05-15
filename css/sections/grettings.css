@@ -39,7 +39,10 @@
     font-size: 48px;
     margin-top: 41px;
 }
-.btn {
+
+
+.grettings__btn {
+    margin-top: 63px;
     padding: 30px 62px 22px 62px;
     border-radius: 10px;
     font-family: var(--fontLB);
@@ -48,8 +51,4 @@
     font-size: 48px;
     border: #5D4545;
     text-shadow: #2A2020;
-}
-
-.grettings__btn {
-    margin-top: 63px;
 }
