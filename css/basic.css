@@ -32,11 +32,17 @@ ul, ol{
 }
 
 .container{
-    max-width: 1440px;
+    max-width: 1880px;
     margin: 0 auto;
     padding: 0 15px;
 }
 
-.btn {
+.btn{
+    box-shadow: 2px 5px 8px rgb(0, 0, 0, 0.5);
+    text-shadow: 2px  2px 2px #453333;
+}
 
+
+.btn:hover {
+    cursor: pointer;
 }

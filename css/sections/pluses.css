@@ -2,13 +2,24 @@
 }
 
 .pluses__content {
+    margin-top: 220px;
 }
 .pluses__list {
-    display: flex;
-    justify-content: space-between;
+
+        display: inline-block;
 }
+
 .pluses__item {
+    column-gap: 100px;
+    margin-top: 100px;
+
 
 }
 .pluses__text {
+    font-family: var(--fontLB);
+    font-size: 64px;
+    color: black;
+    display: center;
+    margin: 0 0 200px 0;
+    flex-wrap: wrap;
 }

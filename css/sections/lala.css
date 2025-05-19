@@ -1,10 +1,13 @@
 .lala {
-
+    background: url(/img/lala/lala1.png) no-repeat center/cover;
+    height: 800px;
+    display: flex;
+    align-items: center;
 }
 .lala__picture{
-    
 }
 .lala__content {
+
  
 }
 .lala__title {

@@ -4,6 +4,7 @@
 .grettings__content {
 }
 .header {
+    width: 100%;
     background-color: rgb(0, 0, 0, 0.5) ;
     display: flex;
     justify-content: space-between;
@@ -52,3 +53,4 @@
     border: #5D4545;
     text-shadow: #2A2020;
 }
+
