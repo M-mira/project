@@ -13,7 +13,7 @@
 .lala__title {
     font-family: var(--fontLB);
     color: rgb(255, 255, 255, 0.5);
-    font-size: 128px;
+    font-size: clamp(2.188rem, 0.858rem + 6.078vi, 8rem);
     display: flex;
     justify-content: center;
 }

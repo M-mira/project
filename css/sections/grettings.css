@@ -3,13 +3,7 @@
 }
 .grettings__content {
 }
-.header {
-    width: 100%;
-    background-color: rgb(0, 0, 0, 0.5) ;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
+
 .logo {
 }
 .nav {
@@ -37,7 +31,7 @@
 .grettings__title {
     font-family: var(--fontLB);
     color: #2A2020;
-    font-size: 48px;
+    font-size: clamp(1.563rem, 1.234rem + 1.503vi, 3rem);
     margin-top: 41px;
 }
 

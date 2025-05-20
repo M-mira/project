@@ -10,7 +10,7 @@
 }
 .message__text {
     font-family: var(--fontLB);
-    font-size: 64px;
+    font-size: clamp(2.188rem, 1.773rem + 1.895vi, 4rem);
     color: black;
 }
 

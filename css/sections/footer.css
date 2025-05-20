@@ -18,12 +18,12 @@
 .footer__text {
     color: white;
     font-family: var(--fontLF);
-    font-size: 32px;
+    font-size: clamp(0.938rem, 0.694rem + 1.111vi, 2rem);
     margin-top: 20px;
 }
 
 .footer__title{
-    font-size: 40px;
+    font-size: clamp(1.438rem, 1.194rem + 1.111vi, 2.5rem);
     color: white;
     font-family: var(--fontLF);
     margin-top: 50px;
@@ -31,7 +31,7 @@
 .footer__address{
     color: white;
     font-family: var(--fontLF);
-    font-size: 48px;
+    font-size: clamp(1.938rem, 1.694rem + 1.111vi, 3rem);
 }
 .footer__social {
 }

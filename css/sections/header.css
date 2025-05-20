@@ -1,0 +1,29 @@
+.header {
+    width: 100%;
+    background-color: rgb(0, 0, 0, 0.5) ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.burger-menu {
+    display: none;
+    row-gap: 5px;
+    flex-direction: column;
+}
+
+.burger-menu__line {
+    width: 24px;
+    height: 2px;
+    border-radius: 8px;
+    background-color: #3a312c;
+}
+
+@media(max-width:900px){
+    .nav__list{
+        display: none;
+    }
+    .burger-menu{
+        display: flex;
+    }
+}
